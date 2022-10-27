@@ -14,7 +14,7 @@ The polydata can then be used to visualize the array field in Paraview. The proc
 
        sudo apt-get install g++ libomp-dev cmake -y
 
-2. Install *VTK *development:
+2. Install *VTK* development:
 
        sudo apt install libvtk5-dev -y
 
